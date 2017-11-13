@@ -1,0 +1,11 @@
+[general]
+name=DBlookup
+description=Extends QGIS expressions with dblookup function
+about=Provides a custom GGIS expressions function "dblookup" to look up av value from another table. Use dblookup(table,field,key,value) to return field from table where key=value.
+category=Database
+version=0.1
+qgisMinimumVersion=2.0
+author=Per Eric Rosén
+email=per@rosnix.net
+tags=expressions
+deprecated=False
